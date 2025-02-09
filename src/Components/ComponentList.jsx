@@ -175,6 +175,7 @@ const ComponentList = () => {
             <header className="header">
                 <div className="logo-container">
                     <img src={LOGO} alt="Logo" className="logo" />
+
                     <h1 className="title">Electronics Guide</h1>
                 </div>
                 
